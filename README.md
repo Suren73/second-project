@@ -31,6 +31,6 @@ $ git version
 <p style="text-align: center;">Второй способ. Используйте Homebrew.</p>
 
 
-<p style="text-align: center;">Centered text</p>
+<center>Centered text</center>
 
 2. Настройка GIT  
