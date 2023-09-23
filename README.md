@@ -28,10 +28,8 @@ $ git version
 ```
 Если на экран выводится текущая версия Git, значит, установка прошла успешно.
 
-<p style="text-align: center;">Второй способ. Используйте Homebrew.</p>
+<p align="center">Второй способ. Используйте Homebrew.</p>
 
-
-<center>Centered text</center>
 
 <p align="center">centered text</p>
 
