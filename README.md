@@ -28,6 +28,9 @@ $ git version
 ```
 Если на экран выводится текущая версия Git, значит, установка прошла успешно.
 
-<p style="text-align: center">Второй способ. Используйте Homebrew.</p>
+<p style="text-align: center;">Второй способ. Используйте Homebrew.</p>
+
+
+<p style="text-align: center;">Centered text</p>
 
 2. Настройка GIT  
