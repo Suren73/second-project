@@ -10,6 +10,8 @@
 
 **BASH**  
 
-```$ git version ```  
+```bash
+$ git version 
+```  
 
 2. Настройка GIT  
