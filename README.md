@@ -33,4 +33,6 @@ $ git version
 
 <center>Centered text</center>
 
+<p align="center">centered text</p>
+
 2. Настройка GIT  
