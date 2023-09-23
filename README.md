@@ -37,4 +37,4 @@ $ git version
 
 ![](https://pictures.s3.yandex.net/resources/S1_57-1_1683929299.png)
 
-**Настройка GIT**  
+## Настройка GIT  
